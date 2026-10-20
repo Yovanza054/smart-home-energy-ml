@@ -209,6 +209,6 @@ Hasil dari satu kali pelaksanaan (data dan pembagian bersifat tetap lewat `rando
 
 <div align="center">
 
-Dibuat untuk keperluan pembelajaran Machine Learning. ⭐
+Yovanza Villareal - G1A023054
 
 </div>
